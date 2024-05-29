@@ -9,8 +9,6 @@ Add comments to say what I'm doing
 Create a box displaying the vault codes and the text or a popup dialog box. 
 */
 
-// This is my alert
-
 
 /* I am making my variables here with three unique arithmetic operators
 I am also converting them to strings so that I can display them. 
